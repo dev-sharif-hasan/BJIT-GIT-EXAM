@@ -1,5 +1,5 @@
 // arif added a stdio.h library
-#include <stduio.h>
+#include <stdio.h>
 int main(){
 	//rashed add a variable int x bellow this line
 	int x;
