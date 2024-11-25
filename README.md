@@ -4,7 +4,7 @@ I am on my newfeature branch
 I am a good boy
 I am a good man
 I am a good woman
-fmgb,n,jhjfhtgghln,jhgdhtrfgk.kh,jgygbn
+fmgb,n,jhjfhtgg
 
 new work from sharif hasan
 
