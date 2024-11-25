@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main(){
 	//rashed add a variable int x bellow this line
 	int x;
