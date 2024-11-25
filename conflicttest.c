@@ -9,5 +9,5 @@ int main(){
 
 
 	//sharif add a variable in x bellow this line
-
+	int x;
 }
